@@ -1,5 +1,5 @@
-https://www.cylaw.tu-darmstadt.de/lehre_3/lehrveranstaltungen_2/oeffentliches_recht_i_rechts_und_juristenmanagement_2/oeffentliches_recht_i_rechts_und_juristenmanagement.de.jsp
-http://stg-tud.github.io/sep/
-http://stg-tud.github.io/sep/schedule/
-https://www.google.com/calendar/ical/99fp2dr4n26m5jj9epq44g8a5g%40group.calendar.google.com/public/basic.ics
-http://stg-tud.github.io/sep/artifacts/
+Öffentliches Recht|https://www.cylaw.tu-darmstadt.de/lehre_3/lehrveranstaltungen_2/oeffentliches_recht_i_rechts_und_juristenmanagement_2/oeffentliches_recht_i_rechts_und_juristenmanagement.de.jsp
+SEP Root|http://stg-tud.github.io/sep/
+SEP Shedule|http://stg-tud.github.io/sep/schedule/
+SEP Calendar|https://www.google.com/calendar/ical/99fp2dr4n26m5jj9epq44g8a5g%40group.calendar.google.com/public/basic.ics
+SEP Artifacts|http://stg-tud.github.io/sep/artifacts/
