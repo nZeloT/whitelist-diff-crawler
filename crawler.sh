@@ -27,7 +27,7 @@ done <diffcheck.txt
 echo "Done diffing. Deleting old, moving new"
 rm -r old
 echo "Finished. Find result in $report"
-
+notepad $report
 echo "Preparing Mail ..."
 echo $found | grep "NODIFF$"
 if [[ $? -eq 0 ]]
