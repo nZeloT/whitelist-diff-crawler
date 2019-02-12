@@ -4,3 +4,6 @@ SEP Root|http://stg-tud.github.io/sep/
 SEP Shedule|http://stg-tud.github.io/sep/schedule/
 SEP Calendar|https://www.google.com/calendar/ical/99fp2dr4n26m5jj9epq44g8a5g%40group.calendar.google.com/public/basic.ics
 SEP Artifacts|http://stg-tud.github.io/sep/artifacts/
+Ausland - Workshops|https://www.interkulturelle-kompetenz.tu-darmstadt.de/kurse_zikk/workshops_zikk/workshops_2.de.jsp
+Ausland - Anmeldung spezial Sprachkurs|https://www.spz.tu-darmstadt.de/kurse/bevorzugte_anmeldung/bevorzugte_anmeldung.de.jsp
+Ausland - Aktuelles IRO|https://www.tu-darmstadt.de/international/home/news_2/index.de.jsp
