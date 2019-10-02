@@ -1,0 +1,7 @@
+## How To
+1. Adapt the ``diffcheck.txt`` file to incorporate the websites you want to be checdked regularly. The file format is simply ```Name of Website|URL of Website``. Make sure there are no empty lines in between and no whitespace before and after the ``|``
+2. When using Linux create a cron job to run the shell script in the shedule you want. When using windows create a new task in the Task Sheduler. As action use the Git Bash shell with the crawler shell script as parameter. As trigger enter for example a weekly run during a weekday. Also make sure that the following checkmarks are set: In the conditions tab set the "Stop if computer ceases to be idle" and the "Start only if the network connection is avaliable". In the settings tab set the "Allow task to be run on demand", "Run task as soon as possible after a sheduled start is missed" and "Stop the task if its running longer than 3 days" and "If the task does not end when requested, force it to stop". Save the task and execute it manually to test your setup. 
+3. After the script ran a notepad window should open with a subsection of the entries in the ```diffcheck.txt``. You can now manually check for the changes on the corresponding sites.
+
+## License
+Created during 35C3 by nzelot. Feel free to change and do what ever you want. Pull requests for improvements such as handling sites with login are welcome.
